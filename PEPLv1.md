@@ -68,9 +68,7 @@ For the purposes of this License, the following definitions apply:
 
 7. **No Trademark Rights**: This License does not grant permission to use the trademarks, logos, or service marks of the Original Author(s). Any usage of such marks requires a separate, explicit written agreement from the Original Author(s) and is not covered by this License.
 
-8. **Requirement to Re-License Under Project Ether Public SubLicense (PEPSL) Version 1.0**: 
-
-   Any modified version of the Project, whether altered in part or in whole, must be re-released solely under the terms of the Project Ether Public SubLicense Version 1.0 (PEPSL) and must clearly state that it is subject to PEPSL. Licensees may not impose additional terms or restrictions beyond those specified in PEPSL. All modifications, adaptations, and derivative works, whether significant or minor, are bound to this re-licensing requirement, ensuring that all modifications continue to adhere to the same terms and limitations as the original Project. 
+8. **Requirement to Re-License Under Project Ether Public SubLicense (PEPSL) Version 1.0**: Any modified version of the Project, whether altered in part or in whole, must be re-released solely under the terms of the Project Ether Public SubLicense Version 1.0 (PEPSL) and must clearly state that it is subject to PEPSL. Licensees may not impose additional terms or restrictions beyond those specified in PEPSL. All modifications, adaptations, and derivative works, whether significant or minor, are bound to this re-licensing requirement, ensuring that all modifications continue to adhere to the same terms and limitations as the original Project. 
 
 ---
 
