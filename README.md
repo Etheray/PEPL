@@ -2,8 +2,8 @@
 
 This project is licensed under two specific licenses:
 
-1. **Project Ether Public License Version 1.0 (PEPL)**
-2. **Project Ether Public SubLicense Version 1.0 (PEPSL)**
+1. **Project Ether Public License Version 1.0 (PEPLv1)**
+2. **Project Ether Public SubLicense Version 1.0 (PEPSLv1)**
 
 Please review the licensing terms below to ensure compliance with all requirements before using, distributing, or modifying the project.
 
